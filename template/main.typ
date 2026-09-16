@@ -1,4 +1,4 @@
-#import "@local/cs-notes:0.1.0": *
+#import "@preview/cs-notes:0.1.0": *
 
 #show: cs-notes.with(
   title: "Algorithms and Data Structures",

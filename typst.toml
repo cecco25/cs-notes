@@ -7,7 +7,7 @@ license = "MIT"
 description = "Clean Typst template for university computer science notes."
 repository = "https://github.com/cecco25/cs-notes"
 keywords = ["notes", "university", "computer-science", "lecture"]
-categories = ["notes", "books"]
+categories = ["book", "report"]
 compiler = "0.15.1"
 
 [template]
